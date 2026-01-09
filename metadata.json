@@ -1,0 +1,5 @@
+{
+  "name": "Amazon-Style Secure Payment Page",
+  "description": "A high-fidelity, realistic React payment interface mimicking the Amazon checkout experience with advanced form validation, responsive layout, and interactive credit card elements.",
+  "requestFramePermissions": []
+}
